@@ -1,4 +1,4 @@
-# Monitor-Power-Off
+# Monitor Power Off
 
 EN: very small testing utils to hardware monitor power set green mode (off)
 __________________
